@@ -1,4 +1,4 @@
-
+<!-- 
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 내 잔디들은 아직 심어지지 않고 있다...
-- ⚡ Fun fact: 여기는 왜 잔디가 심기는거지?!?
+- ⚡ Fun fact: 여기는 왜 잔디가 심기는거지?!? -->
 
 
 <div align=center>
