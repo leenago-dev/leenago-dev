@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 #### Check out my portfolio!
-- 노션 -
+ 노션 
 
 #### For more information....
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leena-koh-a77002191/)](https://www.linkedin.com/in/leena-koh-a77002191/) 
