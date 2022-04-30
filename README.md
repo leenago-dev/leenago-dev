@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-#### Check out my portfolio!
+#### Check out my portfolio below 😉!
  노션 
 
 #### For more information....
