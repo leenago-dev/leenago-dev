@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Leena's%20Github&fontSize=80)
 
-
-
-
-#### Check out my portfolio below 😉!
- 노션 
-
 #### For more information....
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leena-koh-a77002191/)](https://www.linkedin.com/in/leena-koh-a77002191/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leenagohk@gmail.com)](mailto:leenagohk@gmail.com) 
