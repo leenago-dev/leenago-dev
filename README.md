@@ -4,11 +4,9 @@
 
 #### For more information....
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leena_loves_palmtrees/?hl=en)](https://www.instagram.com/leena_loves_palmtrees/?hl=en) 
+[![githubblog](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leena_loves_palmtrees/?hl=en)](https://www.leenago-dev.github.io) ]
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblooming-daisy&count_bg=%230C0C0C&title_bg=%23EE9E9B&icon=&icon_color=%23E7E7E7&title=Counts%F0%9F%92%96&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  
   
 </div>
 
